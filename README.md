@@ -30,7 +30,7 @@ step 3 : Now we need to change permission access to public and add code bucket p
             "Effect": "Allow",
             "Principal": "*",
             "Action": "s3:GetObject",
-            "Resource": "arn:aws:s3:::fauziawsbucket/*"
+            "Resource": "arn:aws:s3:::your_bucket_name/*"
         }
     ]
 }
