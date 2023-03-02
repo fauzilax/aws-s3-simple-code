@@ -17,7 +17,8 @@ $ cd go-aws-s3-simple
 
 step 1 : first we need to log in or sign up into our <a href="https://s3.console.aws.amazon.com/s3/get-started?region=ap-southeast-1" >AWS S3 Bucket</a> . Create new bucket
 
-step 2 : you need go to IAM to get credential api key,
+step 2 : you need go to IAM to get credential api key , this process really important, you can go <a href="https://dev.to/aws-builders/lets-get-started-with-echo-go-aws-sdk-for-go-and-aws-s3-2ac3">here</a> to get more information creating credential aws s3 bucket permission
+
 
 step 3 : Now we need to change permission access to public and add code bucket policy
 
